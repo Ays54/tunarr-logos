@@ -25,25 +25,25 @@ Tunarr keeps these in **two separate fields per channel**. The icon never appear
 | # | Channel | Icon | Watermark |
 |---|---|---|---|
 | 1 | The Guide | `logos/the-guide.png` | `watermarks/the-guide.png` |
-| 2 | Cosmos Network | `logos/cosmos-network.png` | `watermarks/cosmos-network.png` |
-| 3 | The Crypt | `logos/the-crypt.png` | `watermarks/the-crypt.png` |
-| 4 | Kids Movie Club | `logos/kids-movie-club.png` | `watermarks/kids-movie-club.png` |
-| 5 | Kids Corner TV | `logos/kids-corner-tv.png` | `watermarks/kids-corner-tv.png` |
-| 6 | Chris TV | `logos/chris-tv.png` | `watermarks/chris-tv.png` |
-| 7 | Adrenaline Central | `logos/adrenaline-central.png` | `watermarks/adrenaline-central.png` |
-| 8 | The Laugh Factory | `logos/the-laugh-factory.png` | `watermarks/the-laugh-factory.png` |
-| 9 | Family Movie Night | `logos/family-movie-night.png` | `watermarks/family-movie-night.png` |
-| 10 | Pupflix | `logos/pupflix.png` | `watermarks/pupflix.png` |
-| 11 | Turkey Swim | `logos/turkey-swim.png` | `watermarks/turkey-swim.png` |
-| 12 | Horizon | `logos/horizon.png` | _pending_ |
-| 13 | Neon | `logos/neon.png` | _pending_ |
-| 14 | Fable | `logos/fable.png` | _pending_ |
-| 15 | Vanguard | `logos/vanguard.png` | _pending_ |
-| 16 | Heartline | `logos/heartline.png` | _pending_ |
-| 17 | Second Date | `logos/second-date.png` | _pending_ |
-| 19 | Sitcom Central | `logos/sitcom-central.png` | _pending_ |
-| 20 | Fresh Print | `logos/fresh-print.png` | _pending_ |
-| 21 | The Knee Slap | `logos/the-knee-slap.png` | _pending_ |
+| 2 | Fresh Print | `logos/fresh-print.png` | _pending_ |
+| 3 | Adrenaline Central | `logos/adrenaline-central.png` | `watermarks/adrenaline-central.png` |
+| 4 | The Laugh Factory | `logos/the-laugh-factory.png` | `watermarks/the-laugh-factory.png` |
+| 5 | Cosmos Network | `logos/cosmos-network.png` | `watermarks/cosmos-network.png` |
+| 6 | Horizon | `logos/horizon.png` | _pending_ |
+| 7 | Neon | `logos/neon.png` | _pending_ |
+| 8 | The Crypt | `logos/the-crypt.png` | `watermarks/the-crypt.png` |
+| 9 | Fable | `logos/fable.png` | _pending_ |
+| 10 | Vanguard | `logos/vanguard.png` | _pending_ |
+| 11 | Heartline | `logos/heartline.png` | _pending_ |
+| 12 | Second Date | `logos/second-date.png` | _pending_ |
+| 13 | Chris TV | `logos/chris-tv.png` | `watermarks/chris-tv.png` |
+| 14 | Sitcom Central | `logos/sitcom-central.png` | _pending_ |
+| 15 | The Knee Slap | `logos/the-knee-slap.png` | _pending_ |
+| 16 | Turkey Swim | `logos/turkey-swim.png` | `watermarks/turkey-swim.png` |
+| 17 | Kids Movie Club | `logos/kids-movie-club.png` | `watermarks/kids-movie-club.png` |
+| 18 | Kids Corner TV | `logos/kids-corner-tv.png` | `watermarks/kids-corner-tv.png` |
+| 19 | Family Movie Night | `logos/family-movie-night.png` | `watermarks/family-movie-night.png` |
+| 20 | Pupflix | `logos/pupflix.png` | `watermarks/pupflix.png` |
 
 
 ## URL pattern
