@@ -35,6 +35,16 @@ Tunarr keeps these in **two separate fields per channel**. The icon never appear
 | 9 | Family Movie Night | `logos/family-movie-night.png` | `watermarks/family-movie-night.png` |
 | 10 | Pupflix | `logos/pupflix.png` | `watermarks/pupflix.png` |
 | 11 | Turkey Swim | `logos/turkey-swim.png` | `watermarks/turkey-swim.png` |
+| 12 | Horizon | `logos/horizon.png` | _pending_ |
+| 13 | Neon | `logos/neon.png` | _pending_ |
+| 14 | Fable | `logos/fable.png` | _pending_ |
+| 15 | Vanguard | `logos/vanguard.png` | _pending_ |
+| 16 | Heartline | `logos/heartline.png` | _pending_ |
+| 17 | Second Date | `logos/second-date.png` | _pending_ |
+| 19 | Sitcom Central | `logos/sitcom-central.png` | _pending_ |
+| 20 | Fresh Print | `logos/fresh-print.png` | _pending_ |
+| 21 | The Knee Slap | `logos/the-knee-slap.png` | _pending_ |
+
 
 ## URL pattern
 
